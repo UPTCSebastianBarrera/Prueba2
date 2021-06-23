@@ -15,6 +15,7 @@ import java.util.Random;
 
 public class MyFrame extends JFrame implements MouseListener{
     
+    //ESTA ES UNA PRUEBA DE GITHUB
     JLabel object;
     JLabel text;
     JLabel Lose;
